@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Felipe> -- <test> -- <@felipe_teste>
 
 # THANKS
 
